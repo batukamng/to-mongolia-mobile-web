@@ -1,0 +1,8 @@
+*.jpg
+*.jpeg
+*.png
+*.gif
+hotels/
+landmarks/
+provinces/
+restaurants/
